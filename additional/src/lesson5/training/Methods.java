@@ -1,6 +1,6 @@
-package lesson5.methods;
+package lesson5.training;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
+
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

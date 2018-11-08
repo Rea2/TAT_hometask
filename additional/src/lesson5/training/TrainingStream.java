@@ -16,7 +16,7 @@ public class TrainingStream {
         try {
              fr = new FileReader(file);
         } catch (FileNotFoundException e) {
-            System.out.println("File didn't found");
+            System.out.println("FileItem didn't found");
             return;
         }
         BufferedReader br = new BufferedReader(fr);
